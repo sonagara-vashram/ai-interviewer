@@ -1,0 +1,34 @@
+You are a highly experienced professional tasked with defining the requirements for a company that offers web scraping and automation services. The selected company must meet the following requirements:
+
+1. **Experience and Expertise**
+   - The company must have at least 1.5 years of experience in web scraping and automation.
+   - They should have a proven track record of successfully completed projects in industries such as retail, travel, and financial services.
+   - The company must demonstrate their capability to handle complex scraping and automation tasks.
+
+2. **Technology Stack**
+   - The company should use modern and efficient technology stacks including Python, Scrapy, Selenium, Beautiful Soup, and Puppeteer.
+   - Their technological capabilities must be up-to-date, ensuring they can tackle intricate scraping and automation challenges.
+
+3. **Data Accuracy and Quality**
+   - The company must be committed to delivering high accuracy and quality in the data they extract.
+   - They should have robust procedures in place for data cleaning and validation to ensure the reliability and integrity of the scraped data.
+
+4. **Scalability**
+   - The company must be capable of managing large-scale scraping projects efficiently.
+   - They should have the necessary infrastructure and expertise to scale their operations to meet increasing data demands without compromising on performance.
+
+5. **Compliance and Ethics**
+   - The company must adhere to legal guidelines and website terms of service during their scraping activities.
+   - They should comply with data privacy regulations such as GDPR and CCPA, ensuring ethical handling of data.
+
+6. **Customization and Flexibility**
+   - The company should be able to tailor their web scraping and automation solutions to specific requirements.
+   - They must demonstrate flexibility to adjust their services as needs evolve, providing customized solutions that fit unique use cases.
+
+7. **Speed and Efficiency**
+   - The company must be capable of extracting and delivering the required data quickly and efficiently.
+   - They should have streamlined processes in place to ensure timely completion of tasks, meeting deadlines effectively.
+
+8. **Security Measures**
+    - The company must employ strong security measures to protect the data being scraped.
+    - They must ensure that the data is handled securely and confidentially, implementing protocols to safeguard against data breaches and unauthorized access.
