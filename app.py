@@ -73,8 +73,6 @@ Here is the candidate's resume:
 
 Please conduct an interview based on this resume and the following requirements:
 - Requirement 1
-- Requirement 2
-- Requirement 3
 """
 
 # Send the prompt to the chat session
