@@ -45,9 +45,10 @@ model = genai.GenerativeModel(
     system_instruction=system_prompt
 )
 
-chat_session = model.start_chat()
+chat_session = model.start_chat(history=[])
 
 prompt = f"""
+
 """
 response = chat_session.send_message(prompt)
 
